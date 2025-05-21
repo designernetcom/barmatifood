@@ -1,0 +1,2402 @@
+﻿/*Table of content*/
+
+/*Desktop Media*/
+
+/*Desktop height media*/
+
+/*1024-iPad Landscape, iPad Pro Portrait*/
+
+/*992-Tablet*/
+
+/*980-Tablet*/
+
+/*960-Tablet*/
+
+/*854-Nokia N9 Landscape*/
+
+/*823-Pixel 2 XL Landscape*/
+
+/*812-iPhone X Landscape*/
+
+/*800-Kindle Fire HDX, Nexux 10*/
+
+/*768-iPad Portrait*/
+
+/*736-iPhone 6/7/8 Plus Landscape*/
+
+/*731-Pixel 2 Landscape*/
+
+/*667-iPhone 6/7/8 Landscape*/
+
+/*640-Galaxy Note 3 Landscape*/
+
+/*604-Smartphone*/
+
+/*600-Blackberry PlayBook, Nexus 7*/
+
+/*586-iPhone 5/SE Landscape*/
+
+/*533-Nokia Lumia 520 Landscape*/
+
+/*480-Nokia N9*/
+
+/*414-iPhone 6/7/8 Plus*/
+
+/*412-Nexus 6*/
+
+/*411-Pixel 2XL*/
+
+/*384-LG Optimus L70, Nexus 4*/
+
+/*375-iPhone 6/7/8 Plus, iPhone X*/
+
+/*360-Galaxy S5, Galaxy Note, Galaxy Note 3, Nexus 5, BlackBerry, Microsoft Lumia*/
+
+/*320-iPhone 5/SE, iPhone 4, Nokia Lumia 520*/
+
+/**/
+
+@media only screen and (min-width:1921px) {
+
+    .carousel-item img,
+    .divider-yellow-top img,
+    .divider-yellow-bottom img,
+    .divider-blue-inner img,
+    .divider-yellow-blog>img,
+    .divider-yellow-careers>img {
+        width: 100%;
+    }
+
+    .aboutyellowbg i img {
+        max-width: 100px;
+    }
+
+    .jointeamrow,
+    .aboutproductrow,
+    .careerpositionrow,
+    .prodcutdetailModal {
+        background-size: 100%
+    }
+
+    .frmleafbottom {
+        top: 100px;
+    }
+
+    .leafbreadcumre {
+        bottom: 110px;
+    }
+
+    .careerformsection .frmleafbottom {
+        top: 0;
+    }
+
+    .errorpagerow {
+        background-position: 0px 0px;
+        background-size: cover;
+    }
+
+    .testysliderproduct .slick-slide img {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width:1680px) {
+    .whatsmoodrow {
+        margin-top: -160px;
+        padding-top: 210px;
+    }
+
+    .hand-right-top {
+        width: 24%;
+        top: 200px;
+    }
+
+    .hand-left-bottom {
+        width: 24%;
+        bottom: 100px;
+    }
+
+    .prodcutdetailModal {
+        padding: 50px 0px;
+    }
+
+    .contactdetailrow {
+        padding-bottom: 190px;
+    }
+
+    .dealershiprow {
+        padding-bottom: 190px;
+    }
+
+    .frmleafbottom {
+        right: 140px;
+    }
+
+    .careerpositionrow {
+        padding: 160px 0px 250px;
+    }
+
+    .jointeamrow {
+        padding: 220px 0px 100px;
+        background-size: cover;
+    }
+
+    .aboutproductrow {
+        background-size: cover;
+        padding: 220px 0px;
+    }
+
+    .jointeamrow .row>[class*="col-"]:nth-child(2) {
+        left: 0px;
+        margin-top: 160px;
+    }
+
+    .jointeamrow .row>[class*="col-"]:nth-child(5) {
+        right: 0px;
+    }
+
+    .jointeamrow .row>[class*="col-"]:nth-child(4) {
+        left: 0px;
+    }
+
+    .errorpagerow {
+        background-size: cover;
+    }
+
+    .aboutproductrow .frmleaftop {
+        width: 180px;
+    }
+
+    .exp-prodcut-popup-slider {
+        padding: 50px 130px;
+    }
+}
+
+@media only screen and (max-width:1600px) {
+    .whatsmoodrow {
+        margin-top: -150px;
+    }
+
+}
+
+@media only screen and (max-width:1440px) {
+    h1 {
+        font-size: 36px;
+    }
+
+    .container {
+        padding: 0px 50px;
+    }
+
+    .lgtitle70 {
+        font-size: 60px;
+        line-height: 43px;
+    }
+
+    .lgtitle60 {
+        font-size: 42px;
+        line-height: 32px;
+    }
+
+    .exportfrmrow .lgtitle60 {
+        line-height: 46px;
+    }
+
+    .full-slider .carousel-indicators {
+        bottom: 15px;
+    }
+
+    .emojithumb {
+        max-width: 60px;
+    }
+
+    .emojicol .emojicontent:nth-child(6) {
+        margin-left: 18%;
+    }
+
+    .product-slider .lgtitle70 {
+        margin-left: 23%;
+        font-size: 48px;
+        line-height: 36px;
+    }
+
+    .pro-top-leaf {
+        width: 150px;
+        top: 30px;
+    }
+
+    .pro-bottom-leaf {
+        width: 150px;
+        left: 30px;
+        bottom: -15px;
+    }
+
+    .tastycaption {
+        top: 50px;
+    }
+
+    .captiontext {
+        font-size: 80px;
+        line-height: 50px;
+    }
+
+    .captiontext span {
+        font-size: 48px;
+    }
+
+    .frmleafbottom {
+        right: 80px;
+        width: 130px;
+        top: 50px;
+    }
+
+    .frmleaftop {
+        left: 50px;
+    }
+
+    .prothumb::before {
+        background-size: 100%;
+    }
+
+    .whatsmoodrow {
+        margin-top: -130px;
+        padding-top: 190px;
+    }
+
+    .emojithumbcol img {
+        width: 55%;
+    }
+
+    .emojicol .emojicontent:nth-child(7) {
+        margin-top: 80px;
+    }
+
+    .prothumb {
+        width: 35%;
+    }
+
+    .shareicon {
+        right: 80px;
+    }
+
+    .hearticon {
+        right: 160px;
+    }
+
+    .bloglatestrow .pro-bottom-leaf {
+        left: 30px;
+        bottom: 0px;
+    }
+
+    .blogtitle {
+        width: 75%;
+    }
+
+    .bloglistingrow {
+        padding-bottom: 130px;
+    }
+
+    .footerobjectright {
+        width: 350px;
+    }
+
+    .leafbreadcumre {
+        bottom: 20px;
+        right: 150px;
+    }
+
+    .productlistingrow .pro-top-leaf {
+        top: -150px;
+    }
+
+    .prodcutdetailModal {
+        padding: 45px 0px;
+        background-size: cover;
+    }
+
+    .contactdetailrow {
+        padding-bottom: 160px;
+    }
+
+    .inner-header {
+        margin-bottom: 80px;
+    }
+
+    .thankyou-main {
+        padding: 200px 0px 100px;
+    }
+
+    .dealershiprow {
+        padding-bottom: 170px;
+    }
+
+    .careerpositionrow {
+        padding: 140px 0px 220px;
+    }
+
+    .aboutproductrow .frmleaftop {
+        width: 170px;
+        left: 30px;
+        top: 40px;
+    }
+
+    .aboutcontentrow,
+    .export-countryicon {
+        margin-bottom: 80px;
+    }
+
+    .jointeamrow .frmleaftop {
+        top: 50px;
+    }
+
+    .jointeamrow {
+        padding: 170px 0px 90px;
+    }
+
+    .aboutyellorow {
+        margin-bottom: 100px;
+    }
+
+    .aboutyellowbg {
+        padding: 70px 0px 30px;
+    }
+
+    .errorpagerow {
+        background-size: 100%;
+        padding-top: 50px;
+        min-height: 800px;
+    }
+
+    .aboutprodutitem .lgtitle40 {
+        font-size: 30px;
+        line-height: 20px;
+    }
+
+    .infrastructureslider .slick-prev {
+        left: 48%;
+    }
+
+    .infrastructureslider .slick-next {
+        right: 48%;
+    }
+
+    .exp-prodcut-popup-slider {
+        padding: 0px 120px 30px;
+    }
+
+}
+
+@media only screen and (max-width:1366px) {
+    .navmenu>ul>li {
+        padding: 35px 20px;
+    }
+
+    .careerpositionrow {
+        padding: 130px 0px 200px;
+    }
+
+    .errorpagerow {
+        min-height: 750px;
+    }
+
+    .errorpagerow .row [class*="col-"]:last-child {
+        margin-top: 20px;
+    }
+
+}
+
+@media only screen and (max-width:1280px) {
+    .captiontext {
+        font-size: 100px;
+        line-height: 50px;
+        width: 35%;
+    }
+
+    .product-slider .lgtitle70 {
+        font-size: 48px;
+        line-height: 36px;
+    }
+
+    .emojicontent span {
+        font-size: 16px;
+    }
+
+    .contactrequestrow {
+        padding: 70px 0px 65px;
+    }
+
+    /* .emojicol .emojicontent:nth-child(2){margin-left: 15%;}
+    .emojicol .emojicontent:nth-child(5){margin-left: 16%;} */
+    .leafbreadcumre {
+        bottom: 10px;
+        right: 150px;
+    }
+
+    .contactdetailrow {
+        padding-bottom: 150px;
+    }
+
+    .dealershiprow {
+        padding-bottom: 150px;
+    }
+
+    .errorpagerow {
+        min-height: 700px;
+    }
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1441px) {
+    .basetouchimg img {
+        max-width: 330px;
+    }
+
+    .baseimg img {
+        max-width: 300px;
+    }
+
+    .instaiconcol,
+    .instaiconcol i {
+        margin-right: 30px;
+    }
+
+    .catagoryrow .carousel-caption {
+        padding: 0px 50px;
+    }
+
+    .aboutprodutitem .btn-theme-white {
+        font-size: 15px;
+    }
+
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1365px) {}
+
+@media only screen and (min-width: 1280px) and (max-width: 1440px) {
+    .captiontext {
+        padding-right: 30px;
+    }
+}
+
+@media only screen and (min-width: 1224px) and (max-width: 1279px) {}
+
+@media only screen and (min-width: 1200px) and (max-width: 1223px) {}
+
+@media only screen and (min-width: 1152px) and (max-width: 1199px) {}
+
+/*Desktop Media Ends*/
+
+/*Desktop height media Starts*/
+
+@media (min-width:1200px) and (max-width:1280px) and (max-height: 1024px) {}
+
+@media (min-width:1200px) and (max-width:1280px) and (max-height: 960px) {}
+
+@media (min-width:1200px) and (max-width:1280px) and (max-height: 800px) {}
+
+@media (min-width:1200px) and (max-width:1280px) and (max-height: 768px) {}
+
+@media (min-width:1920px) and (min-height: 1081px) and (max-height: 1200px) {
+    /*.errorpagerow{background-position: 0px 0px;background-size: cover;}*/
+}
+
+@media (min-width:1920px) and (min-height: 960px) and (max-height: 1080px) {
+    /*    .errorpagerow{background-size: cover;}*/
+}
+
+@media (max-width:1920px) and (max-height: 1080px) {}
+
+@media only screen and (min-width:1200px) {
+    .container {
+        max-width: 1440px;
+    }
+}
+
+/*Desktop height media Ends*/
+
+/*iPad Landscape, iPad Pro Portrait start*/
+@media only screen and (max-width:1200px) {
+    .navmenu>ul>li {
+        padding: 30px 15px
+    }
+
+    .headermenucol .logo img {
+        height: 100px;
+    }
+
+    .mainheader {
+        min-height: 80px;
+    }
+
+    .emojicol .emojicontent:nth-child(6) {
+        margin-left: 16%;
+    }
+
+    .emojicol .emojicontent:nth-child(5) {
+        margin-left: 16%;
+    }
+
+    .emojithumbcol img {
+        width: 62%;
+    }
+
+    .emojicol .emojicontent:nth-child(7) {
+        margin-left: 9%;
+    }
+
+    .contactrequestrow {
+        padding: 60px 0px;
+    }
+
+    .lgtitle70 {
+        font-size: 50px;
+    }
+
+    .saalonerow {
+        padding-bottom: 30px;
+    }
+
+    .full-slider .carousel-indicators {
+        bottom: 0px;
+    }
+
+    .footerobjectright {
+        width: 280px;
+    }
+
+    .leafbreadcumre {
+        bottom: 10px;
+    }
+
+    .contactdetailrow {
+        padding-bottom: 115px;
+    }
+
+    .errorpagerow {
+        margin-bottom: 50px;
+        background-size: cover;
+        background-position: right top;
+    }
+
+    .errorpagerow h1 {
+        font-size: 36px;
+        line-height: 20px;
+    }
+
+    .bulletcol {
+        width: 50%;
+    }
+
+    .aboutcontentrow .row {
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+    }
+
+    .aboutcontentrevese .row {
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+    }
+
+    .full-slider .carousel-control-prev,
+    .full-slider .carousel-control-next {
+        display: none;
+    }
+
+    .exp-prodcut-popup-slider {
+        padding: 0px 50px 30px;
+    }
+
+    .exp-prodcut-popup-slider .slick-prev {
+        left: 0px;
+    }
+
+    .exp-prodcut-popup-slider .slick-next {
+        right: 0px;
+    }
+
+
+}
+
+@media only screen and (max-width:1199px) {
+
+    .bloglistingrow h2,
+    .productcontent h2 {
+        font-size: 26px;
+        line-height: 20px;
+    }
+
+    .container,
+    .container-fluid {
+        padding: 0px 20px;
+    }
+
+    .full-slider {
+        margin: 80px 0px 70px;
+    }
+
+    .menucallaction {
+        display: block;
+    }
+
+    .logo {
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+        margin-bottom: -30px;
+    }
+
+    .logo img {
+        height: 90px;
+    }
+
+    .mainheader.sticky .logo img {
+        height: 60px;
+    }
+
+    .navbartoggle {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        position: absolute;
+        right: 0px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+
+    .nav-toggler:hover {
+        color: #cf9c51;
+    }
+
+    .black-overlay {
+        z-index: 50;
+        background-color: rgba(0, 0, 0, 0.5);
+        content: '';
+        position: fixed;
+        right: 0px;
+        height: 100%;
+        width: 100%;
+        top: 0px;
+        display: none;
+    }
+
+    .headermenucol {
+        z-index: 50;
+        position: fixed;
+        overflow: hidden;
+        height: 100%;
+        width: 100%;
+        right: -100%;
+        top: 0px;
+        -webkit-transition: right 0.5s;
+        -o-transition: right 0.5s;
+        transition: right 0.5s;
+        background: url(../images/responsive-menu-bg.webp) no-repeat top left;
+        background-size: cover;
+    }
+
+    .headermenucol.slide {
+        right: 0px;
+    }
+
+    .headermenucol .navmenu {
+        width: 100%;
+    }
+
+    .menucol {
+        height: 100%;
+        overflow: auto;
+        padding: 70px 80px;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        -ms-flex-wrap: initial;
+        flex-wrap: initial;
+    }
+
+    .navmenu>ul {
+        margin-right: 0px;
+        display: inline-block;
+        vertical-align: top;
+        width: 100%;
+    }
+
+    .navmenu>ul>li,
+    .mainheader.sticky .navmenu>ul>li {
+        width: 100%;
+        padding: 0px;
+        margin-bottom: 25px;
+    }
+
+    .navmenu>ul>li>ul li ul li {
+        width: 100%;
+    }
+
+    .navmenu>ul>li>a {
+        width: 100%;
+        font-size: 36px;
+        font-family: 'Caveat', cursive;
+        font-weight: 400;
+    }
+
+    .navmenu>ul>li>ul {
+        position: relative;
+        width: 100%;
+        box-shadow: none;
+        top: 0px;
+        padding: 0px;
+        margin: 20px 0px 10px;
+        background-color: transparent;
+    }
+
+    .navmenu>ul>li>ul li {
+        padding: 0px 0px 10px 22px;
+        border: none;
+        position: relative;
+    }
+
+    .navmenu>ul>li>ul li::before {
+        position: absolute;
+        left: 0px;
+        top: 10px;
+        content: '';
+        background: #e1000b;
+        border-radius: 50%;
+        width: 8px;
+        height: 8px;
+    }
+
+    .navmenu>ul>li>ul li a {
+        font-weight: 600;
+    }
+
+    .navmenu>ul>li>ul li:last-child {
+        padding-bottom: 0px;
+    }
+
+    .navmenu>ul>li>ul li .sub-menu-arrow {
+        top: 10px;
+    }
+
+    .navmenu>ul>li.menu-item-has-children>a {
+        pointer-events: none;
+    }
+
+    .navmenu>ul>li>ul li ul {
+        box-shadow: none;
+    }
+
+    .navmenu>ul>li:hover>ul,
+    .navmenu>ul>li>ul {
+        display: inline-block;
+        left: 0px;
+    }
+
+    .navmenu>ul>li:hover>a {
+        color: #000;
+    }
+
+    .navmenu>ul>li>ul li.current-menu-item a,
+    .navmenu>ul li.current-menu-item>a {
+        color: #e1000b;
+    }
+
+    .navmenu>ul>li.mobilefirst {
+        display: inline-block;
+    }
+
+    .navmenu>ul>li.Mobilehide {
+        display: none;
+    }
+
+    /* .navmenu > ul > li > ul li a:hover, .navmenu > ul > li > ul li:hover > a{background-color: #fff;color: #e1000b;} */
+    .sub-menu-arrow {
+        display: inline-block;
+        position: absolute;
+        right: -20px;
+        top: 0px;
+        cursor: pointer;
+        z-index: 10;
+        color: #e1000b;
+        width: 34px;
+        height: 24px;
+        text-align: center;
+    }
+
+    .sub-menu-arrow i {
+        margin-top: 5px;
+        font-size: 16px;
+    }
+
+    .menuobjectbottom {
+        position: absolute;
+        right: 0px;
+        bottom: 0px;
+        max-width: 290px;
+        display: inline-block;
+    }
+
+    .headerclose a {
+        color: #231069;
+        padding: 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        height: 40px;
+        border: 1px solid #231069;
+        border-radius: 50%;
+    }
+
+    .headerclose a:hover {
+        background-color: #231069;
+        color: #fff;
+    }
+
+    .headerclose {
+        display: block;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+
+    .navmenu>ul>li>ul li a:hover::after,
+    .navmenu>ul>li>ul li.current-menu-item a::after {
+        opacity: 0;
+    }
+
+    .menuobjectleaf {
+        position: absolute;
+        top: 141px;
+        right: 65px;
+        display: inline-block;
+        width: 134px;
+    }
+
+    .full-slider .carousel-indicators {
+        bottom: -20px;
+    }
+
+    .basetouchimg {
+        max-width: 320px;
+        margin-bottom: -20px;
+    }
+
+    .captiontext {
+        font-size: 50px;
+        line-height: 28px;
+    }
+
+    .captiontext span {
+        font-size: 36px;
+    }
+
+    .pro-top-leaf {
+        width: 100px;
+        top: 0px;
+    }
+
+    .pro-bottom-leaf {
+        width: 130px;
+        bottom: -50px;
+    }
+
+    .lgtitle70 {
+        font-size: 48px;
+    }
+
+    .product-slider .lgtitle70 {
+        font-size: 36px;
+        line-height: 30px;
+        width: 42%;
+        margin-right: 17%;
+    }
+
+    .productviewrow {
+        padding: 0px 0px 30px;
+    }
+
+    .tastycaption {
+        top: 20px;
+    }
+
+    .whatsmoodrow {
+        padding-top: 130px;
+        margin-top: -110px;
+    }
+
+    .productItem a:hover .prothumb img,
+    .prothumb img {
+        transform: translateY(0px);
+    }
+
+    .productItem a:hover .prothumb::before,
+    .prothumb::before {
+        bottom: -45px;
+        opacity: 1;
+    }
+
+    .productcontent {
+        width: 65%;
+        padding-left: 30px;
+    }
+
+    .productviewrow .row>[class*="col-"]:nth-child(2n+1) {
+        margin-top: 70px;
+    }
+
+    .carousel-caption {
+        margin-top: 15px;
+    }
+
+    .emojicol {
+        margin-top: 20px;
+    }
+
+    .emojicontent {
+        margin-bottom: 60px;
+    }
+
+    .emojicol .emojicontent:nth-child(1) {
+        margin-left: 10%;
+    }
+
+    .emojicol .emojicontent:nth-child(2) {
+        margin-left: 13%;
+    }
+
+    .emojicol .emojicontent:nth-child(3) {
+        margin-left: 15%;
+        margin-top: -20px;
+    }
+
+    .emojicol .emojicontent:nth-child(4) {
+        margin-left: 0%;
+    }
+
+    .emojicol .emojicontent:nth-child(6) {
+        margin-left: 14%;
+    }
+
+    .emojicol .emojicontent:nth-child(5) {
+        margin-left: 15%;
+    }
+
+    .emojicol .emojicontent:nth-child(7) {
+        margin-left: 6%;
+        margin-top: 50px;
+    }
+
+    .emojithumbcol img {
+        width: 55%;
+    }
+
+    .contactrequestrow {
+        padding: 75px 0px
+    }
+
+    .frmleafbottom {
+        top: 30px;
+        width: 120px;
+        right: 40px;
+    }
+
+    .hand-left-bottom {
+        width: 20%;
+    }
+
+    .hand-right-top {
+        width: 20%;
+    }
+
+    .instaiconcol i {
+        font-size: 80px;
+        margin-right: 25px;
+    }
+
+    .instaiconcol .lgtitle60 {
+        font-size: 30px;
+        margin-right: 25px;
+    }
+
+    .footerlink {
+        width: 25%;
+    }
+
+    .copyright br:first-child {
+        display: none;
+    }
+
+    .footermain {
+        padding: 80px 0px 90px;
+    }
+
+    .shareicon {
+        right: 60px;
+        width: 60px;
+    }
+
+    .hearticon {
+        right: 130px;
+        width: 60px;
+    }
+
+    .breadcrumbrowblue {
+        padding: 70px 0px 30px;
+    }
+
+    .pagetitle {
+        font-size: 60px;
+    }
+
+    .bloglatestrow .pro-bottom-leaf {
+        left: 20px;
+    }
+
+    .inner-header {
+        margin: 80px 0px 70px;
+    }
+
+    .bloglistingrow {
+        padding: 130px 0px 90px;
+    }
+
+    .bloglistingrow h3 {
+        font-size: 20px;
+    }
+
+    .leafbreadcumre {
+        right: 120px;
+        bottom: 0px;
+    }
+
+    .blog-single-main {
+        padding-bottom: 80px;
+    }
+
+    .productItem {
+        margin-bottom: 60px;
+    }
+
+    .productlistingrow .prothumb,
+    .exportproductviewrow .tab-content .prothumb {
+        margin-bottom: 45px;
+        padding: 0px 30px;
+    }
+
+    .prodcutdetailModal {
+        padding: 100px 0px;
+    }
+
+    .productlistingrow .pro-top-leaf {
+        top: -120px;
+    }
+
+    .mb-100 {
+        margin-bottom: 50px;
+    }
+
+    .catagoryrow .sliderfadeInLeft {
+        padding-left: 30px;
+    }
+
+    .catagoryrow .lgtitle60 {
+        font-size: 34px;
+        line-height: 28px;
+    }
+
+    .contactdetailrow {
+        padding-bottom: 120px;
+    }
+
+    .thankyou-main {
+        padding: 180px 0px 90px;
+    }
+
+    .dealershiprow {
+        padding-bottom: 140px;
+    }
+
+    .careerformsection {
+        margin-bottom: 0px;
+    }
+
+    .careerpositionrow {
+        padding: 100px 0px 150px;
+    }
+
+    .positionleaf {
+        left: 40px;
+        width: 90px;
+        bottom: -25px;
+    }
+
+    .careersformrow {
+        padding: 55px 0px 40px;
+    }
+
+    .careerformsection .frmleafbottom {
+        top: 0px;
+    }
+
+    .aboutcontentrow,
+    .export-countryicon {
+        margin-bottom: 60px;
+    }
+
+    .jointeamrow .frmleaftop {
+        top: 30px;
+        left: 30px;
+    }
+
+    .jointeamrow {
+        padding: 120px 0px 130px;
+        background-position: top right;
+    }
+
+    .jointeamrow .row>[class*="col-"]:nth-child(2) {
+        margin-top: 120px;
+    }
+
+    .jointeamrow .row>[class*="col-"]:nth-child(4) {
+        margin-top: 90px;
+    }
+
+    .jointeamrow .row>[class*="col-"]:nth-child(5) {
+        margin-top: 0px;
+    }
+
+    .aboutyellowbg .frmleaftop {
+        left: 40px;
+        top: -40px
+    }
+
+    .aboutyellowbg .row [class*="col-"]>[class*="col-"] p {
+        font-size: 18px;
+    }
+
+    .aboutyellowbg .row [class*="col-"] i img {
+        width: 80px;
+    }
+
+    .aboutyellowbg {
+        padding: 50px 0px 10px;
+    }
+
+    .aboutyellorow .divider-yellow-top .frmleafbottom {
+        top: 20px;
+        right: 40px;
+    }
+
+    .aboutyellorow {
+        margin-bottom: 50px;
+    }
+
+    .aboutrowvistar {
+        margin-bottom: 50px;
+    }
+
+    .aboutproductrow .frmleaftop {
+        top: 40px;
+        width: 130px;
+    }
+
+    .aboutproductrow {
+        background-position: top right;
+        padding: 140px 0px 140px;
+    }
+
+    .lgtitle40 {
+        font-size: 30px;
+        line-height: 20px;
+    }
+
+    .frmleaftop {
+        width: 120px;
+    }
+
+    .catagoryrow .carousel-caption {
+        top: 43%;
+    }
+
+    .catagoryrow .sliderfadeInUp {
+        padding: 0px 25px;
+    }
+
+    .exportproductviewrow {
+        padding-bottom: 70px !important;
+    }
+
+    .tabtitlerow {
+        margin-bottom: 30px;
+    }
+
+    .exportfrmrow .lgtitle60 {
+        line-height: 40px;
+    }
+
+}
+
+@media only screen and (max-width:1024px) {}
+
+/*iPad Landscape, iPad Pro Portrait end*/
+
+/*Tablet start*/
+
+@media only screen and (max-width:992px) {}
+
+@media only screen and (max-width:991px) {
+
+    h1,
+    .productcontent h2 {
+        font-size: 30px;
+    }
+
+    .productviewrow .row>[class*="col-"],
+    .productviewrow .row>[class*="col-"]:nth-child(2n+1) {
+        margin-top: 0px;
+        margin-bottom: 70px;
+    }
+
+    .productviewrow {
+        padding: 60px 0px 0px;
+    }
+
+    .product-slider .lgtitle70 {
+        font-size: 25px;
+        line-height: 24px;
+        width: 40%;
+    }
+
+    .whatsmoodrow {
+        padding-top: 110px;
+        margin-top: -80px;
+    }
+
+    .emojithumb {
+        max-width: 50px;
+    }
+
+    .emojicontent span {
+        font-size: 14px;
+    }
+
+    .emojithumbcol {
+        margin-top: -70px;
+    }
+
+    .emojicol .emojicontent:nth-child(1) {
+        margin-left: 8%;
+    }
+
+    .emojicol .emojicontent:nth-child(2) {
+        margin-left: 10%;
+    }
+
+    .emojicol .emojicontent:nth-child(3) {
+        margin-left: 10%;
+        margin-top: -10px;
+    }
+
+    .emojicol .emojicontent:nth-child(4) {
+        margin-left: 0px;
+    }
+
+    .emojicol .emojicontent:nth-child(5) {
+        margin-left: 6%;
+    }
+
+    .emojicol .emojicontent:nth-child(6) {
+        margin-left: 7%;
+        margin-top: -20px;
+    }
+
+    .emojicol .emojicontent:nth-child(7) {
+        padding-left: 5%;
+        margin-top: 20px;
+    }
+
+    .frmleaftop {
+        width: 100px;
+        left: 20px;
+        z-index: 1;
+    }
+
+    .frmleafbottom {
+        right: 20px;
+        width: 100px;
+        top: 20px;
+    }
+
+    .instafollowcol {
+        padding: 30px;
+    }
+
+    .hand-left-bottom {
+        width: 15%;
+    }
+
+    .hand-right-top {
+        width: 15%;
+    }
+
+    .saalonerow {
+        padding-bottom: 40px;
+    }
+
+    .lgtitle70 {
+        font-size: 40px;
+        line-height: 30px;
+    }
+
+    .lgtitle60 {
+        font-size: 36px;
+        line-height: 22px;
+        margin-bottom: 20px;
+    }
+
+    .exportfrmrow .lgtitle60 {
+        line-height: 30px;
+    }
+
+    .captiontext {
+        width: 48%;
+    }
+
+    .captiontext {
+        font-size: 44px;
+        line-height: 24px;
+    }
+
+    .hearticon {
+        right: 80px;
+    }
+
+    .blogtitle {
+        width: 70%;
+    }
+
+    .footerobjectright {
+        width: 230px;
+    }
+
+    .pro-bottom-leaf {
+        width: 110px;
+    }
+
+    .leafbreadcumre {
+        bottom: 0px;
+    }
+
+    .productlistingrow .productitem h2,
+    .exportproductviewrow .productItem h2 {
+        font-size: 22px;
+    }
+
+    .catagoryrow .lgtitle60 {
+        font-size: 30px;
+    }
+
+    .dealershiprow {
+        padding-bottom: 130px;
+    }
+
+    .dealershipimg {
+        margin-bottom: 30px
+    }
+
+    .careerpositionrow {
+        margin-top: 0px;
+    }
+
+    .careerrow {
+        margin-bottom: 50px
+    }
+
+    .careerrow .lgtitle60 {
+        line-height: 36px;
+    }
+
+    .aboutcontentrow .row {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+    }
+
+    .aboutcontentrow .row>[class*="col-"]:first-child,
+    .aboutrowvistar .row>[class*="col-"]:first-child {
+        margin-bottom: 30px;
+    }
+
+    .aboutyellowbg .frmleaftop {
+        display: none;
+    }
+
+    .aboutyellowbg {
+        padding: 30px 0px 20px;
+    }
+
+    .jointeamrow {
+        padding: 120px 0px 140px;
+    }
+
+    .jointeamrow .row>[class*="col-"]:nth-child(2) {
+        margin-top: 90px;
+    }
+
+    .aboutcontentrow .lgtitle60 {
+        line-height: 36px;
+    }
+
+    .aboutrowvistar,
+    .aboutyellorow {
+        margin-bottom: 40px;
+    }
+
+    .jointeamrow .row>[class*="col-"]:nth-child(4),
+    .jointeamrow .row>[class*="col-"]:nth-child(2) {
+        margin-top: 40px;
+    }
+
+    .jointeamrow .row>[class*="col-"]:nth-child(3) {
+        margin-top: 15px;
+    }
+
+    .aboutyellowbg .row>[class*="col-"]:first-child {
+        margin-bottom: 20px;
+    }
+
+    .aboutyellowbg .row [class*="col-"] i {
+        display: inline-block;
+        vertical-align: top;
+        padding-right: 30px;
+        width: 28%;
+    }
+
+    .aboutyellowbg .row [class*="col-"]>[class*="col-"] p {
+        width: 70%;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .carousel-control-next,
+    .carousel-control-prev:focus,
+    .carousel-control-next:focus,
+    .carousel-control-prev {
+        width: 32px;
+        height: 32px;
+        font-size: 14px;
+    }
+
+    .errorpagerow {
+        background-size: cover;
+        height: 700px;
+        background-position: top right;
+    }
+
+    .errorpagerow .row [class*="col-"]:last-child {
+        margin-top: 0px
+    }
+
+    .infrastructureslider .slick-prev {
+        left: 45%;
+    }
+
+    .infrastructureslider .slick-next {
+        right: 45%;
+    }
+
+    .exp-prodcut-popup-slider {
+        padding: 0px 10px 30px;
+    }
+
+}
+
+
+/*Tablet end*/
+
+/*Tablet start*/
+
+@media only screen and (max-width:980px) {}
+
+/*Tablet end*/
+
+/*Tablet start*/
+
+@media only screen and (max-width:960px) {}
+
+/*Tablet end*/
+
+/*Nokia N9 Landscape start*/
+
+@media only screen and (max-width:854px) {
+
+    .navmenu {
+        width: 75%;
+    }
+
+    .bloglatestrow .pro-bottom-leaf {
+        left: 0px;
+        bottom: 0px;
+    }
+
+    .leafbreadcumre {
+        bottom: -5px;
+        right: 80px;
+        width: 150px;
+    }
+
+    .contactdetailrow {
+        padding-bottom: 100px;
+    }
+
+    .breadcrumbrowblue {
+        padding: 70px 0px 50px;
+    }
+}
+
+/*Nokia N9 Landscape end*/
+
+/*Pixel 2 XL Landscape start*/
+
+@media only screen and (max-width:823px) {}
+
+/*Pixel 2 XL Landscape end*/
+
+/*iPhone X Landscape start*/
+
+@media only screen and (max-width:812px) {}
+
+/*iPhone X Landscape end*/
+
+/*Kindle Fire HDX, Nexux 10 start*/
+
+@media only screen and (max-width:800px) {}
+
+/*Kindle Fire HDX, Nexux 10 end*/
+
+/*iPad Portrait start*/
+
+@media only screen and (max-width:768px) {}
+
+@media (min-width:767px) and (max-width:812px) and (max-height: 375px) {}
+
+@media only screen and (max-width:767px) {
+    h1 {
+        font-size: 24px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+    .productcontent h2 {
+        font-size: 29px;
+        margin-bottom: 15px;
+    }
+
+    .baseimg {
+        display: none;
+    }
+
+    .saalonerow {
+        padding-bottom: 130px;
+    }
+
+    .pro-top-leaf,
+    .pro-bottom-leaf,
+    .hand-right-top,
+    .hand-left-bottom,
+    .positionleaf {
+        display: none;
+    }
+
+    .tastycaption {
+        position: relative;
+        top: 0px;
+    }
+
+    .product-slider {
+        margin-bottom: 20px;
+    }
+
+    .emojicontent {
+        width: 50%;
+        padding: 0px 15px;
+        margin-bottom: 30px;
+    }
+
+    .emojicol .emojicontent:nth-child(2),
+    .emojicol .emojicontent:nth-child(1),
+    .emojicol .emojicontent:nth-child(3),
+    .emojicol .emojicontent:nth-child(4),
+    .emojicol .emojicontent:nth-child(5),
+    .emojicol .emojicontent:nth-child(6),
+    .emojicol .emojicontent:nth-child(7) {
+        margin-left: 0px;
+    }
+
+    .contactrequestrow {
+        padding: 80px 0px 45px;
+    }
+
+    .product-slider .lgtitle70 {
+        margin-left: 17%;
+        font-size: 20px;
+        line-height: 20px;
+        width: 45%;
+    }
+
+    .testysliderproduct .slick-prev {
+        left: 10px;
+    }
+
+    .testysliderproduct .slick-next {
+        right: 10px;
+    }
+
+    .frmleafbottom {
+        top: 20px;
+    }
+
+    .footermain {
+        padding: 70px 0px;
+    }
+
+    .footerlink {
+        width: 33.33%;
+        margin-bottom: 20px;
+    }
+
+    .addresscol {
+        margin-bottom: 20px;
+    }
+
+    .instafollowcol {
+        padding: 30px;
+        background-position: bottom center;
+    }
+
+    .captiontext {
+        font-size: 36px;
+    }
+
+    .captiontext span {
+        font-size: 30px;
+    }
+
+    /*    .saalonerow .text-center{text-align: left !important;}*/
+    .instaiconcol .lgtitle60 {
+        font-size: 30px;
+        line-height: 22px;
+    }
+
+    .instaiconcol i {
+        font-size: 60px;
+    }
+
+    .blogtitle {
+        width: 100%;
+        padding: 0px;
+    }
+
+    .latestBlogCon .btn-theme {
+        margin-top: 20px;
+    }
+
+    .inner-header {
+        margin: 80px 0px 50px;
+    }
+
+    .breadcrumbrowblue {
+        padding: 60px 0px 30px;
+    }
+
+    .pagetitle {
+        font-size: 36px;
+        margin-bottom: 10px;
+    }
+
+    .bloglistingrow {
+        padding: 100px 0px 50px;
+    }
+
+    .blogcol {
+        margin-bottom: 30px;
+    }
+
+    .footerobjectright {
+        display: none;
+    }
+
+    .menucol {
+        padding: 60px 50px;
+    }
+
+    .menuobjectleaf {
+        top: 50px;
+        width: 110px;
+    }
+
+    .menuobjectbottom {
+        width: 230px;
+    }
+
+    .leafbreadcumre {
+        width: 100px;
+        right: 50px;
+    }
+
+    .blog-single-main {
+        padding-bottom: 50px;
+    }
+
+    .productItem {
+        margin-bottom: 40px;
+    }
+
+    .prodcutclose {
+        top: 20px;
+        right: 20px;
+    }
+
+    .catagoryrow .carousel-caption {
+        top: 40%;
+    }
+
+    .catagoryrow .sliderfadeInUp {
+        padding: 0px;
+    }
+
+    .catagoryrow .lgtitle60 {
+        font-size: 20px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+
+    .catagoryrow .sliderfadeInLeft {
+        padding-left: 0px;
+    }
+
+    .prodcutdetailModal .row {
+        min-height: initial;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+        flex-direction: column-reverse;
+    }
+
+    .prodcutdetailModal {
+        padding: 50px 0px;
+    }
+
+    .prodcutdetailModal .lgtitle70,
+    .pricesizecol {
+        margin-bottom: 25px;
+    }
+
+    .catagoryrow .carousel-control-prev,
+    .catagoryrow .carousel-control-next {
+        display: none;
+    }
+
+    .catagoryrow .carousel-indicators {
+        bottom: -35px;
+    }
+
+    .contactdetailrow {
+        padding-bottom: 50px;
+    }
+
+    .contactfrmrow {
+        padding-top: 30px;
+    }
+
+    .thankyou-main {
+        padding: 150px 0px 70px;
+    }
+
+    .iconcontact {
+        width: 70px;
+        height: 70px;
+        font-size: 20px;
+    }
+
+    .dealershiprow {
+        padding-bottom: 100px;
+    }
+
+    .card-header a::before {
+        width: 30px;
+        height: 30px;
+        font-size: 14px;
+        line-height: 28px;
+        top: 18px;
+    }
+
+    .card-header {
+        padding: 20px 50px;
+    }
+
+    .card-body {
+        padding-left: 0px;
+    }
+
+    .bulletcol {
+        width: 100%;
+    }
+
+    .careerpositionrow {
+        padding: 70px 0px 110px;
+    }
+
+    .careerrow {
+        margin-bottom: 30px;
+    }
+
+    .careerrow .row .col-md-5 {
+        margin-bottom: 20px;
+    }
+
+    .lgtitle60 {
+        font-size: 30px;
+        line-height: 22px;
+    }
+
+    .careerrow .lgtitle60 {
+        line-height: 28px;
+    }
+
+    .card-header a {
+        font-size: 20px;
+    }
+
+    .careersformrow .lgtitle60 {
+        margin-bottom: 30px;
+    }
+
+    /* .btn-theme, .catagorieslist ul li a{padding: 10px 15px;font-size: 12px;}*/
+    .catagoryrow .btn-theme,
+    .instafollowcol .btn-theme {
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+
+    .aboutcontentrow,
+    .export-countryicon {
+        margin-bottom: 30px;
+    }
+
+    .jointeamrow {
+        padding: 70px 0px 80px;
+    }
+
+    .jointeamrow .lgtitle60,
+    .aboutproductrow .lgtitle60 {
+        font-size: 40px;
+    }
+
+    .aboutproductrow {
+        padding: 80px 0px 50px;
+    }
+
+    .aboutproductrow .lgtitle60 {
+        margin-bottom: 25px;
+    }
+
+    .aboutproductrow .row [class*="col-"] img {
+        margin-bottom: -5px;
+        max-width: 200px;
+    }
+
+    .aboutprodutitem {
+        margin-bottom: 40px;
+    }
+
+    .aboutcontentrow .lgtitle60 {
+        line-height: 30px;
+    }
+
+    .aboutyellowbg .row [class*="col-"] i {
+        width: 20%;
+    }
+
+    .aboutyellowbg .row [class*="col-"]>[class*="col-"] p {
+        font-size: 20px;
+    }
+
+    .errorpagerow .lgtitle70 {
+        line-height: 20px;
+        font-size: 28px;
+    }
+
+    .errorpagerow h1 {
+        font-size: 30px;
+        line-height: 24px;
+    }
+
+    .errorpagerow {
+        padding-top: 150px;
+        align-items: flex-start;
+    }
+
+    .errorpagerow .row [class*="col-"]:last-child {
+        margin-top: -30px;
+    }
+
+    .jointeamrow .row>[class*="col-"]:nth-child(4),
+    .jointeamrow .row>[class*="col-"]:nth-child(2) {
+        margin-top: 30px;
+    }
+
+    .jointeamrow .row>[class*="col-"]:nth-child(3) {
+        margin-top: 45px;
+    }
+
+    .exp-prodcut-popup-slider .slick-dots li button:before,
+    .slick-dots li.slick-active button:before {
+        background-color: #fff;
+    }
+
+    .exp-prodcut-popup-slider {
+        padding: 0px;
+    }
+
+    .export-countryicon ul li {
+        margin: 0px 10px 15px 10px;
+    }
+
+    .exportmap {
+        margin-bottom: 30px;
+    }
+
+    .ec-img {
+        margin-right: 5px;
+        width: 28px;
+    }
+}
+
+/*iPad Portrait end*/
+
+/*iPhone 6/7/8 Plus Landscape start*/
+
+@media only screen and (max-width:736px) {
+    .leafbreadcumre {
+        bottom: 15px;
+    }
+}
+
+/*iPhone 6/7/8 Plus Landscape end*/
+
+/*Pixel 2 Landscape start*/
+
+@media only screen and (max-width:731px) {
+    .leafbreadcumre {
+        bottom: 10px;
+    }
+}
+
+/*Pixel 2 Landscape end*/
+
+/*iPhone 6/7/8 Landscape start*/
+
+@media only screen and (max-width:667px) {}
+
+/*iPhone 6/7/8 Landscape end*/
+
+/*Galaxy Note 3 Landscape start*/
+
+@media only screen and (max-width:640px) {}
+
+/*Galaxy Note 3 Landscape end*/
+
+/*Smartphone start*/
+
+@media only screen and (max-width:604px) {}
+
+/*Smartphone end*/
+
+/*Blackberry PlayBook, Nexus 7 start*/
+
+@media only screen and (max-width:600px) {}
+
+@media only screen and (max-width:580px) {}
+
+/*Blackberry PlayBook, Nexus 7 end*/
+
+@media only screen and (max-width:576px) {
+
+    .frmleafbottom,
+    .frmleaftop {
+        display: none;
+    }
+
+    .prothumb {
+        width: 52%;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .productcontent {
+        width: 100%;
+        padding-left: 0px;
+    }
+
+    .prothumb::before {
+        background-size: 100%;
+        background-position: center;
+    }
+
+    /* .prothumb img{width: 180px;} */
+    .productviewrow .row>[class*="col-"],
+    .productviewrow .row>[class*="col-"]:nth-child(2n+1) {
+        margin-bottom: 50px;
+    }
+
+    .productviewrow {
+        padding-bottom: 0px;
+    }
+
+    .whatsmoodrow {
+        /* margin-top: 0px; */
+        padding-top: 80px;
+    }
+
+    .saalonerow {
+        padding-bottom: 0px;
+    }
+
+    .frmleaftop {
+        left: 0px;
+    }
+
+    .frmleafbottom {
+        top: 0px;
+        right: 0px;
+    }
+
+    .instaiconcol {
+        margin-bottom: 20px;
+        margin-right: 0px;
+        width: 100%;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+    }
+
+    .instaiconcol i {
+        margin-top: -2px
+    }
+
+    .instaiconcol .lgtitle60 {
+        margin-bottom: 20px;
+        margin-right: 0px;
+        width: 100%;
+    }
+
+    .footerlink {
+        width: 100%;
+    }
+
+    .footermain {
+        padding: 50px 0px 60px;
+    }
+
+    .full-slider .carousel-control-prev,
+    .full-slider .carousel-control-next,
+    .product-slider .carousel-control-prev,
+    .product-slider .carousel-control-next {
+        display: none;
+    }
+
+    .captiontext {
+        font-size: 22px;
+        line-height: 20px;
+    }
+
+    .captiontext span {
+        font-size: 24px;
+    }
+
+    .full-slider {
+        margin: 80px 0px 40px;
+    }
+
+    .basetouchimg {
+        max-width: 240px;
+        margin-bottom: 0px;
+    }
+
+    .product-slider .lgtitle70 {
+        width: 100%;
+        margin: 0%;
+        display: inline-block;
+        vertical-align: top;
+        line-height: 24px;
+        font-size: 24px;
+    }
+
+    .product-slider .carousel-caption {
+        top: 85px;
+    }
+
+    /* .product-slider .carousel-inner {
+        padding-bottom: 30px;
+    } */
+
+    .product-slider {
+        margin-bottom: 40px;
+    }
+
+    .tastycombinationrow {
+        margin-bottom: 40px;
+    }
+
+    .lgtitle70 {
+        font-size: 36px;
+        line-height: 28px;
+    }
+
+    .prodcutdetailModal .lgtitle70 {
+        font-size: 42px;
+        line-height: 34px;
+    }
+
+    .testysliderproduct.slick-dotted.slick-slider {
+        /* padding-bottom: 30px; */
+        margin-bottom: 0px;
+    }
+
+    .menuobjectleaf {
+        top: 80px;
+        width: 110px;
+        right: 20px;
+    }
+
+    .menuobjectbottom {
+        width: 200px;
+    }
+
+    .leafbreadcumre {
+        bottom: -5px;
+        right: 30px;
+    }
+
+    .breadcrumbrowblue {
+        padding: 55px 0px 35px;
+    }
+
+    .comments-area .comment-form p.comment-form-author,
+    .comments-area .comment-form p.comment-form-email {
+        width: 100%;
+    }
+
+    .menucol {
+        padding: 60px 30px 30px;
+    }
+
+    .productlistingrow .prothumb::before,
+    .productlistingrow .productitem:hover .prothumb::before {
+        bottom: -40px;
+    }
+
+    .productlistingrow .productitem h2,
+    .exportproductviewrow .productItem h2 {
+        font-size: 18px;
+    }
+
+    .productlistingrow .prothumb,
+    .exportproductviewrow .tab-content .prothumb {
+        padding: 0px 15px;
+    }
+
+    .catagoryrow {
+        margin-bottom: -15px;
+        z-index: 1;
+    }
+
+    .prodcutdetailModal {
+        padding: 30px 0px;
+    }
+
+    .contactfrmrow {
+        padding-top: 50px;
+    }
+
+    .contactdetailrow h2 {
+        margin-bottom: 15px;
+    }
+
+    .dealershiprow {
+        padding-bottom: 65px;
+    }
+
+    .careersformrow {
+        padding: 50px 0px 30px;
+    }
+
+    .careerpositionrow {
+        padding: 70px 0px 80px;
+    }
+
+    .aboutyellowbg .row [class*="col-"] i {
+        width: 28%;
+    }
+
+    .lgtitle40 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .footerlink ul li {
+        width: 49%;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .errorpagerow .row [class*="col-"]:last-child {
+        margin-top: 0px;
+    }
+
+    .infrastructureslider .slick-prev {
+        left: 43%;
+    }
+
+    .infrastructureslider .slick-next {
+        right: 43%;
+    }
+
+    .exportproductviewrow {
+        padding-bottom: 50px !important;
+    }
+
+}
+
+/*iPhone 5/SE Landscape start*/
+
+@media only screen and (max-width:568px) {}
+
+/*iPhone 5/SE Landscape end*/
+
+/*Nokia Lumia 520 Landscape start*/
+
+@media only screen and (max-width:533px) {}
+
+/*Nokia Lumia 520 Landscape end*/
+
+/*Nokia N9 start*/
+
+@media only screen and (max-width:480px) {}
+
+/*Nokia N9 end*/
+
+/*iPhone 6/7/8 Plus start*/
+
+@media only screen and (max-width:414px) {
+    .leafbreadcumre {
+        bottom: -10px;
+    }
+}
+
+/*iPhone 6/7/8 Plus end*/
+
+/*Nexus 6 start*/
+
+@media only screen and (max-width:412px) {}
+
+/*Nexus 6 end*/
+
+/*Pixel 2XL start*/
+
+@media only screen and (max-width:411px) {}
+
+/*Pixel 2XL end*/
+
+/*LG Optimus L70, Nexus 4 start*/
+
+@media only screen and (max-width:384px) {}
+
+/*LG Optimus L70, Nexus 4 end*/
+
+/*iPhone 6/7/8 Plus, iPhone X start*/
+
+@media only screen and (max-width:375px) {
+    .captiontext span {
+        font-size: 22px;
+    }
+
+    .userauthor img {
+        width: 45px;
+    }
+
+    .menuobjectbottom {
+        width: 160px;
+    }
+
+    .menuobjectleaf {
+        width: 90px;
+    }
+
+    /*    .basetouchimg {max-width: 250px;margin-bottom: 0px;}*/
+    .product-slider .carousel-caption {
+        top: 80px;
+    }
+
+    .card-header a {
+        font-size: 20px;
+    }
+}
+
+/*iPhone 6/7/8 Plus, iPhone X end*/
+
+/*Galaxy S5, Galaxy Note, Galaxy Note 3, Nexus 5, BlackBerry, Microsoft Lumia start*/
+
+@media only screen and (max-width:360px) {
+    .product-slider .carousel-caption {
+        top: 75px;
+    }
+
+    .contactfrmrow {
+        margin-top: -3px;
+    }
+
+    .instaiconcol i {
+        font-size: 48px;
+    }
+
+    .divider-yellow-bottom img {
+        vertical-align: bottom;
+    }
+}
+
+/*Galaxy S5, Galaxy Note, Galaxy Note 3, Nexus 5, BlackBerry, Microsoft Lumia end*/
+
+/*iPhone 5/SE, iPhone 4, Nokia Lumia 520 start*/
+
+@media only screen and (max-width:320px) {}
+
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1440px) {
+    .productcontent h2{
+        font-size:30px;
+    }
+  }
+  
+
+  @media (max-width: 991px) {
+    .tamrindimli,
+    .pineapple,
+    .mixfruit {
+      display: none;
+    }
+  }
+  
